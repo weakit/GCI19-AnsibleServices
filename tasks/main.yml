@@ -1,0 +1,7 @@
+---
+- name: "Start, stop and restart a service"
+  command: /bin/true  # so that the task runs without any problems
+  notify: 
+    - start service apache2
+    - restart service nginx
+    - stop service caddy
