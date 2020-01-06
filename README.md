@@ -4,4 +4,4 @@
 
 An Ansible playbook that starts, stops and restarts 3 services.
 
-[![asciicast](https://asciinema.org/a/Qr1fXqfg4Kbax22eVQ7nhWX1i.svg)](https://asciinema.org/a/Qr1fXqfg4Kbax22eVQ7nhWX1i)
+[![asciicast](https://asciinema.org/a/0uwCu2SziC4DFwEom8PQ1IIad.svg)](https://asciinema.org/a/0uwCu2SziC4DFwEom8PQ1IIad)
